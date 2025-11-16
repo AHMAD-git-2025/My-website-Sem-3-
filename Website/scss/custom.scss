@@ -1,0 +1,7 @@
+// Override Bootstrap Variables
+$primary: #ff8c00;
+$border-radius: 10px;
+$font-family-base: 'Poppins', sans-serif;
+
+// Import Bootstrap from node_modules
+@import "../node_modules/bootstrap/scss/bootstrap";
